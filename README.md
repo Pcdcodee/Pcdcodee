@@ -1,6 +1,6 @@
 # Salve, eu sou o Ian Leonardo (Pcd.code)! 🤟🏽
 
-Estudante de **Ciência da Computação** (6º período) focado em desenvolvimento Web, noções em redes e com Objetivo de construção de software escalável. Atualmente em busca da minha **primeira oportunidade de estágio**, unindo base acadêmica sólida com experiência prática em projetos freelancers.
+Estudante de **Ciência da Computação** focado em desenvolvimento Web, noções em redes e com Objetivo de construção de software escalável. Atualmente em busca da minha **primeira oportunidade de estágio**, unindo base acadêmica sólida com experiência prática em projetos freelancers.
 
 ---
 
